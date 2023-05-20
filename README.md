@@ -45,3 +45,4 @@ vue create vue-starter-project
 
 npm i --save-dev @testing-
 library/vue @testing-library/jest-dom @testing-library/user-event
+# job_search
